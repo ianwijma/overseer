@@ -1,0 +1,22 @@
+{
+  "name": "overseer",
+  "version": "0.0.1",
+  "description": "Imagine spotlight, but then cross platform.",
+  "main": "src/index.js",
+  "repository": "https://github.com/ianwijma/overseer.git",
+  "author": "Ian Wijma <ian@wij.ma>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "devDependencies": {
+    "electron": "^4.0.4"
+  }
+}
